@@ -1,7 +1,7 @@
 # LocalNetworkChat
 A Chatting Service on a local Network
 
--HOW TO
+- HOW TO
 1) Open  server and MySql.
 2) Import `SQLexport` file in MySql.
 3) Download the file and move it to `htdocs`.

@@ -1,5 +1,4 @@
 <?php
-
 function getUser($con,$userId){
 	$sql="SELECT * FROM users WHERE id='$userId'";
 	$query=mysqli_query($con,$sql);
